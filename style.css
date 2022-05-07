@@ -172,5 +172,4 @@ header .tagline:hover {
   overflow: hidden;
   border-right: 4px solid #5865F2;
   color: #5865F2;
-  animation: typing 6s steps(28) infinite;
 }
