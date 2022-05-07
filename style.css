@@ -117,6 +117,10 @@ header .tagline:hover {
   transform: scale(1.5);
 }
 
-githubtext .githubtext1 {
-  color: #5865F2
+.githubtext .githubtext1 {
+  margin-left: 10px;
+  white-space: nowrap; /* Put all in one single line */
+  overflow: hidden;
+  border-right: 4px solid #5865F2;
+  color: #5865F2;
 }
