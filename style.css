@@ -99,6 +99,7 @@ header .hero-photo img {
 /* added */
 header .hero-photo img:hover {
   transform: scale(1.1);
+  object-position: -250px -280px;
 }
 
 header .tagline {
