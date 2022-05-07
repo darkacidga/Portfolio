@@ -90,8 +90,8 @@ header nav {
 
 header .hero-photo img {
   position: absolute;
-  right: 350px;
-  bottom: 350px;
+  right: 250px;
+  bottom: 250px;
   height: 50%;
   transition: all 0.3s ease;
 }
