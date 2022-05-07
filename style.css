@@ -116,3 +116,7 @@ header .tagline {
 header .tagline:hover {
   transform: scale(1.5);
 }
+
+githubtext .githubtext1 {
+  color: #5865F2
+}
