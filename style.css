@@ -93,7 +93,7 @@ header .hero-photo img {
   right: 0;
   bottom: 0;
   height: 50%;
-  object-position: -250px -280px;
+  object-position: -250px -230px;
   transition: all 0.3s ease;
 }
 /* added */
