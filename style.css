@@ -167,9 +167,6 @@ header .tagline:hover {
 } 
 
 .subtitle .hellotype {
-  margin-left: 10px;
-  white-space: wrap; /* Put all in one single line */
   overflow: hidden;
-  border-right: 4px solid #5865F2;
   color: #5865F2;
 }
