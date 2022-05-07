@@ -117,7 +117,7 @@ header .tagline:hover {
   transform: scale(1.5);
 }
 
-.githubtext .githubtext1 {
+.githubtext .githubtext1 .githubtext2 .githubtext3 .githubtext4 {
   margin-left: 10px;
   white-space: nowrap; /* Put all in one single line */
   overflow: hidden;
