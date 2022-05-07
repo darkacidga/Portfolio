@@ -54,12 +54,12 @@ nav .navbar .logo {
 .menu li a {
   font-size: 17px;
   font-weight: 500;
-  color: ##ffffff;
+  color: #ffffff;
   text-decoration: none;
 }
 
 .menu li a:hover {
-  color: ##ffffff;
+  color: #ffffff;
 }
 
 .navbar .search-box {
