@@ -93,12 +93,12 @@ header .hero-photo img {
   right: 0;
   bottom: 0;
   height: 50%;
-  position: -250px -280px;
+  position: 250px 280px;
   transition: all 0.3s ease;
 }
 /* added */
 header .hero-photo img:hover {
-  transform: scale(0.9);
+  transform: scale(1.1);
 }
 
 header .tagline {
